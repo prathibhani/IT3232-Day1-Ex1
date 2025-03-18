@@ -1,4 +1,4 @@
-public class EBook extends Book {
+public class EBook extends Book {//class EBook
     private double fileSize;
     private String format;
 
