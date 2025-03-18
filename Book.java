@@ -23,3 +23,4 @@ abstract class Book {
 
     public abstract void displayDetails();
 }
+//abstracted
