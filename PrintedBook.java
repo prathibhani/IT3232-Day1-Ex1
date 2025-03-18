@@ -1,4 +1,4 @@
-public class PrintedBook extends Book {
+public class PrintedBook extends Book {//PrintedBooks
     private int pageCount;
 
     public PrintedBook(String title, String author, int publish_year, int pageCount) {
