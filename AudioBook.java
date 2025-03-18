@@ -1,4 +1,4 @@
-public class AudioBook extends Book {
+public class AudioBook extends Book {//AudioBook class
     private double duration;
     private String narrator;
 
