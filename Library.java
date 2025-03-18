@@ -1,4 +1,4 @@
-public class Library {
+public class Library {//class library
     private Book[] books;
     private int bookCount;
 
